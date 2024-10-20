@@ -1,4 +1,4 @@
-# Prédiction du Diabète à partir de Dossiers Médicaux
+# Prédiction du Diabète 
 
 ## Description du projet
 Ce projet vise à prédire la probabilité qu'une personne soit atteinte de diabète en utilisant des dossiers médicaux. Le modèle est entraîné à partir de la base de données des Indiens Pima, qui contient plusieurs indicateurs médicaux tels que le nombre de grossesses, le taux de glucose, la pression artérielle, et d'autres facteurs. L'objectif est de construire un modèle de machine learning capable de classifier efficacement les patients en deux catégories : diabétique ou non-diabétique.
