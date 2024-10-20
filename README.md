@@ -22,3 +22,8 @@ Le jeu de données utilisé pour ce projet provient de la base de données des I
 - **Indice de masse corporelle (IMC) (BMI)**
 - **Fonction hérédité du diabète (DiabetesPedigreeFunction)**
 - **Âge (Age)**
+
+
+## Prérequis
+Les bibliothèques Python suivantes sont nécessaires pour exécuter ce projet :
+'pip install pandas scikit-learn matplotlib seaborn'
