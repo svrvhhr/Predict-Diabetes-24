@@ -26,4 +26,13 @@ Le jeu de données utilisé pour ce projet provient de la base de données des I
 
 ## Prérequis
 Les bibliothèques Python suivantes sont nécessaires pour exécuter ce projet :
+
 `pip install pandas scikit-learn matplotlib seaborn`
+
+## Exécution du projet
+
+1. **Chargez et analysez les données dans un notebook Python.**
+2. **Prétraitez les données** (gestion des valeurs manquantes, normalisation).
+3. **Entraînez différents modèles de machine learning** (régression logistique, SVM, etc.).
+4. **Évaluez les performances du modèle** sur un ensemble de test.
+5. **Enregistrez et visualisez les résultats.**
