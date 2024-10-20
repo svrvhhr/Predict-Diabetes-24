@@ -26,4 +26,4 @@ Le jeu de données utilisé pour ce projet provient de la base de données des I
 
 ## Prérequis
 Les bibliothèques Python suivantes sont nécessaires pour exécuter ce projet :
-'pip install pandas scikit-learn matplotlib seaborn'
+`pip install pandas scikit-learn matplotlib seaborn`
